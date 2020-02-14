@@ -1,0 +1,2 @@
+Hello wordcount MapReduce Hadoop program.
+This is my first MapReduce program.
